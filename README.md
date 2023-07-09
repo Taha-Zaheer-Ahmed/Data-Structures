@@ -1,9 +1,11 @@
 # Data-Structures
-##Linked List Class
+#Linked List Class
+
 Introduction
+
 This README provides extensive documentation for the Linked List class. The Linked List class is an implementation of a singly linked list data structure, which allows for efficient insertion, deletion, and manipulation of elements in a sequential manner. This class provides a set of methods to interact with and modify the linked list.
 
-Methods
+Methods:
 
 add
 
